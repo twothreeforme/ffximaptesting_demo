@@ -14,7 +14,7 @@
 </ul> 
 <br></br>
 <h3>Images from what is completed</h3>
-<img src="world_map.png" alt="world map">
+<img src="/media/world_map.png" alt="world map">
 <br></br>
 <h3>Demo video</h3>
 <ul>
