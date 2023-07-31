@@ -24,4 +24,4 @@
   <li>Zone maps should be interactive. Links to the next zone should automatically open that map, for quick/easy tracking of where you intend to go. This same principle can apply to any link added to any map.</li>
   <li>When nearby a city, a city banner will be present on the map. This is meant to take you to a composite map of the city, where you can select which portion of the city to view. This is one of the last pieces to the project, and is now meant as a placeholder till I can get around to it.</li>
 </ul> 
-<video width="640" height="480" controls><source src="/media/mapdemo.mkv" type="video/mkv">Your browser does not support the video tag.</video> 
+<video width="640" height="480" controls><source src="/media/mapdemo.mkv" type="video/mp4">Your browser does not support the video tag.</video> 
