@@ -21,7 +21,7 @@
 <img src="/media/kuzotz_zoom.png" alt="world map">
 <br></br>
 <h3>Demo video</h3>
-<a href="/media/mapdemo.mkv">Click here to download demo video, or go to the media folder</a> 
+<a href="/media/mapdemo.mp4">Click here to download demo video, or go to the media folder</a> 
  <video width="320" height="240" controls>
   <source src="/media/mapdemo.mp4" type="video/mp4">
 Your browser does not support the video tag.
