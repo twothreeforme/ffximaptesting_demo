@@ -20,12 +20,8 @@
 <img src="/media/world_map.png" alt="world map">
 <img src="/media/kuzotz_zoom.png" alt="world map">
 <br></br>
-<h3>Demo video</h3>
-<a href="/media/mapdemo.mp4">Click here to download demo video, or go to the media folder</a> 
- <video width="320" height="240" controls>
-  <source src="/media/mapdemo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
+<h3>Demo video (media folder)</h3>
+
 <ul>
   <li>Demo video shows a world map that I found Google. This is not what I plan to use permanently. The custom world maps shown above are the ones I built, so we won't be using other people's art. We can customize this as needed. </li>
   <l1>Zooming is limited because of the lack of detail on the current world map image. For context, the world map in the video only goes to zoom level 3, and I plan on doubling that, so it will get more and more detailed as you zoom in. Kuzotz (images shown above) is an example of actual artwork demonstrating this better.</l1>
