@@ -14,6 +14,9 @@
 </ul> 
 <br></br>
 <h3>Images from what is completed</h3>
+<ul>
+  <li>Images were just quick snap shots to show context. Nothing is completed. All images are vectored now for scalability, will add "worn out" textures to final images at the end. Everything was hand traced based on about a dozen other world images/maps found online, to include the original Square Enix map. All nation images we redone by hand. </li>
+</ul>
 <img src="/media/world_map.png" alt="world map">
 <img src="/media/kuzotz_zoom.png" alt="world map">
 <br></br>
