@@ -1,10 +1,9 @@
 # ffximaptesting_demo
 
 <h1>FFXI Map Overhaul</h1>
+
 <div>My approach was this: how do we replicate the original FFXI Atlas, but also add modern interactive features? Below is a summation of what I came up with so far. 
-<br></br>
-    Please reach out to me on discord with comments/concerns: starfox9507</div>
-<br></br>
+<br></br> Please reach out to me on discord with comments/concerns: starfox9507</div>
 <h3>Desired Interactive Components</h3>
  <ul>
   <li>Zooming (World Map only): Requires multiple maps with varying degrees of complexity; should get more detailed as you zoom in closer to reveal more of the map</li>
@@ -13,6 +12,22 @@
   <li>Custom links to wiki pages for anything</li>
 </ul> 
 <br></br>
+
+<h2> Update as of 08 AUG 23</h2>
+
+<br>Updated world map: graphics overhaul is the first big step
+<ul>
+    <li>Traced/added all major zones with outdoor maps</li>
+    <li>Added red dotted line zone connections</li>
+    <li>Added banners for each zone name</li>
+    <li>Added city banners</li>
+    <li>Not all zones are completed - asking for public feedback before continuing design</li>
+    <li>Not all zones are listed - need to add subsequent zones, despite them not being on the world map</li>
+</ul>
+<img src="/media/gusta_zoom.png" alt="world map">
+</br>
+
+<h2> Update as of 10 JUL 23</h2>
 <h3>Images from what is completed</h3>
 <ul>
   <li>Images were just quick snap shots to show context. Nothing is completed. All images are vectored now for scalability, will add "worn out" textures to final images at the end. Everything was hand traced based on about a dozen other world images/maps found online, to include the original Square Enix map. All nation images we redone by hand. </li>
